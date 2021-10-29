@@ -1,2 +1,2 @@
 # foodfy
-web site withfood receipts
+web site with food receipts
